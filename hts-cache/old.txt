@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+15:14:36	162/162	---M--	301	error ('Moved%20Permanently')	text/html	date:Tue,%2012%20Oct%202021%2019:14:35%20GMT	http://drama-binny.xyz/robots.txt		(from )
+15:14:36	162/162	---M--	301	error ('Moved%20Permanently')	text/html	date:Tue,%2012%20Oct%202021%2019:14:36%20GMT	http://drama-binny.xyz/	C:/My%20Web%20Sites/2/drama-binny.xyz/index.html	(from )

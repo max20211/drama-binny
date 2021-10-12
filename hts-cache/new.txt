@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+15:15:07	5232/5232	---M-Z	404	error ('Not%20Found')	text/html	etag:W/%226078947b-247b%22	https://drama-binny.xyz/robots.txt		(from )
+15:15:07	2418/2418	---M--	200	added ('OK')	text/html	etag:%226162a8a1-972%22	https://drama-binny.xyz/	C:/My%20Web%20Sites/2/drama-binny.xyz/index.html	(from )
